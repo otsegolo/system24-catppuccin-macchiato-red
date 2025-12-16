@@ -6,19 +6,19 @@ THIS IS NOT THE ORIGINAL REPO, YOU CAN FIND THAT [HERE](https://github.com/refac
 
 a customizable, tui-like discord theme. inspired by [spicetify text theme](https://github.com/spicetify/spicetify-themes/tree/master/text). with red accents on the catppuccin macchiato theme :)
 
-<img src="https://github.com/George-1717/system24-catppuccin-macchiato-red/raw/main/assets/screenshot.png">
+<img src="https://github.com/otsegolo/system24-catppuccin-macchiato-red/raw/main/assets/screenshot.png">
 
 ## installation
 
 ### vencord / betterdiscord
 
-1. [Download `system24.theme.css`](https://raw.githubusercontent.com/George-1717/system24-catppuccin-macchiato-red/refs/heads/main/theme/flavors/system24-catppuccin-macchiato.theme.css)
+1. [Download `system24.theme.css`](https://raw.githubusercontent.com/otsegolo/system24-catppuccin-macchiato-red/refs/heads/main/theme/flavors/system24-catppuccin-macchiato.theme.css)
 2. Move it into your themes folder (openable via settings)
 3. *(Optional)* Tweak variables by editing the file directly or using QuickCSS
 
 ### import via Link
 
-Use this URL in your theme loader: `https://raw.githubusercontent.com/George-1717/system24-catppuccin-macchiato-red/refs/heads/main/theme/flavors/system24-catppuccin-macchiato.theme.css` Want to customize it? Copy the variables into your QuickCSS panel.
+Use this URL in your theme loader: `https://raw.githubusercontent.com/otsegolo/system24-catppuccin-macchiato-red/refs/heads/main/theme/flavors/system24-catppuccin-macchiato.theme.css` Want to customize it? Copy the variables into your QuickCSS panel.
 
 ## contributing
 
