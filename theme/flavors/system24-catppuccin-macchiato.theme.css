@@ -5,13 +5,13 @@
  * @version 2.0.0
  * @invite nz87hXyvcy
  * @website https://github.com/refact0r/system24
- * @source https://raw.githubusercontent.com/George-1717/system24-catppuccin-macchiato-red/refs/heads/main/theme/flavors/system24-catppuccin-macchiato.theme.css
+ * @source https://raw.githubusercontent.com/otsegolo/system24-catppuccin-macchiato-red/refs/heads/main/theme/flavors/system24-catppuccin-macchiato.theme.css
  * @authorId 508863359777505290
  * @authorLink https://www.refact0r.dev
 */
 
 /* import theme modules */
-@import url('https://refact0r.github.io/system24/build/system24.css');
+@import url('https://raw.githubusercontent.com/otsegolo/system24-catppuccin-macchiato-red/refs/heads/main/build/system24.css');
 
 body {
     /* font, change to '' for default discord font */
